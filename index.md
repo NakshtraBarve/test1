@@ -47,7 +47,7 @@
       </ul>
       <hr>
       <h3>
-        <a href="hobbie.html"><u>Click to check out other details</u></a>
+        <a href="hobbie.html"><u><b>Click to check out other details</b></u></a>
       </h3>
   </body>
 </html>
