@@ -47,7 +47,7 @@
       </ul>
       <hr>
       <h3>
-        <a href="C:\Users\kalpak\Desktop\Web Development\html-personal site\hobbie.html"><u>Click to check out other details</u></a>
+        <a href="hobbie.html"><u>Click to check out other details</u></a>
       </h3>
   </body>
 </html>
